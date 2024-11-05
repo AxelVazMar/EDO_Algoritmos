@@ -1,0 +1,15 @@
+/Users/axelvm/Documents/EDO_Algoritmos/03_ListaLigada/bin/Debug/net8.0/03_ListaLigada
+/Users/axelvm/Documents/EDO_Algoritmos/03_ListaLigada/bin/Debug/net8.0/03_ListaLigada.deps.json
+/Users/axelvm/Documents/EDO_Algoritmos/03_ListaLigada/bin/Debug/net8.0/03_ListaLigada.runtimeconfig.json
+/Users/axelvm/Documents/EDO_Algoritmos/03_ListaLigada/bin/Debug/net8.0/03_ListaLigada.dll
+/Users/axelvm/Documents/EDO_Algoritmos/03_ListaLigada/bin/Debug/net8.0/03_ListaLigada.pdb
+/Users/axelvm/Documents/EDO_Algoritmos/03_ListaLigada/obj/Debug/net8.0/03_ListaLigada.GeneratedMSBuildEditorConfig.editorconfig
+/Users/axelvm/Documents/EDO_Algoritmos/03_ListaLigada/obj/Debug/net8.0/03_ListaLigada.AssemblyInfoInputs.cache
+/Users/axelvm/Documents/EDO_Algoritmos/03_ListaLigada/obj/Debug/net8.0/03_ListaLigada.AssemblyInfo.cs
+/Users/axelvm/Documents/EDO_Algoritmos/03_ListaLigada/obj/Debug/net8.0/03_ListaLigada.csproj.CoreCompileInputs.cache
+/Users/axelvm/Documents/EDO_Algoritmos/03_ListaLigada/obj/Debug/net8.0/03_ListaLigada.sourcelink.json
+/Users/axelvm/Documents/EDO_Algoritmos/03_ListaLigada/obj/Debug/net8.0/03_ListaLigada.dll
+/Users/axelvm/Documents/EDO_Algoritmos/03_ListaLigada/obj/Debug/net8.0/refint/03_ListaLigada.dll
+/Users/axelvm/Documents/EDO_Algoritmos/03_ListaLigada/obj/Debug/net8.0/03_ListaLigada.pdb
+/Users/axelvm/Documents/EDO_Algoritmos/03_ListaLigada/obj/Debug/net8.0/03_ListaLigada.genruntimeconfig.cache
+/Users/axelvm/Documents/EDO_Algoritmos/03_ListaLigada/obj/Debug/net8.0/ref/03_ListaLigada.dll
