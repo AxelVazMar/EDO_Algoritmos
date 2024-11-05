@@ -1,0 +1,14 @@
+/Users/axelvm/Documents/EDO_Algoritmos/01_Recursion/bin/Debug/net8.0/01_Recursion
+/Users/axelvm/Documents/EDO_Algoritmos/01_Recursion/bin/Debug/net8.0/01_Recursion.deps.json
+/Users/axelvm/Documents/EDO_Algoritmos/01_Recursion/bin/Debug/net8.0/01_Recursion.runtimeconfig.json
+/Users/axelvm/Documents/EDO_Algoritmos/01_Recursion/bin/Debug/net8.0/01_Recursion.dll
+/Users/axelvm/Documents/EDO_Algoritmos/01_Recursion/bin/Debug/net8.0/01_Recursion.pdb
+/Users/axelvm/Documents/EDO_Algoritmos/01_Recursion/obj/Debug/net8.0/01_Recursion.GeneratedMSBuildEditorConfig.editorconfig
+/Users/axelvm/Documents/EDO_Algoritmos/01_Recursion/obj/Debug/net8.0/01_Recursion.AssemblyInfoInputs.cache
+/Users/axelvm/Documents/EDO_Algoritmos/01_Recursion/obj/Debug/net8.0/01_Recursion.AssemblyInfo.cs
+/Users/axelvm/Documents/EDO_Algoritmos/01_Recursion/obj/Debug/net8.0/01_Recursion.csproj.CoreCompileInputs.cache
+/Users/axelvm/Documents/EDO_Algoritmos/01_Recursion/obj/Debug/net8.0/01_Recursion.dll
+/Users/axelvm/Documents/EDO_Algoritmos/01_Recursion/obj/Debug/net8.0/refint/01_Recursion.dll
+/Users/axelvm/Documents/EDO_Algoritmos/01_Recursion/obj/Debug/net8.0/01_Recursion.pdb
+/Users/axelvm/Documents/EDO_Algoritmos/01_Recursion/obj/Debug/net8.0/01_Recursion.genruntimeconfig.cache
+/Users/axelvm/Documents/EDO_Algoritmos/01_Recursion/obj/Debug/net8.0/ref/01_Recursion.dll
