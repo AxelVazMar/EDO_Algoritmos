@@ -17,11 +17,7 @@ public class CListaLigada
     public void Transversa()
     {
         trabajo = ancla; // Ponemos trabajo al inicio
-
-        if (trabajo.Siguiente == null)
-        {
-            Console.WriteLine("Lista vacía");
-        }
+        
         while (trabajo.Siguiente != null)
         {
             trabajo = trabajo.Siguiente; // Avanzamos trabajo al siguiente nodo
@@ -46,5 +42,46 @@ public class CListaLigada
         temp.Dato = pDato; // Insertamos el dato
         temp.Siguiente = null; // Finalizamos en null 
         trabajo.Siguiente = temp; // ligamos el último nodo encontrado
+    }
+
+    // Método para vaciar la lista
+    public void Vaciar()
+    {
+        ancla.Siguiente = null;
+        // En otro tipo de lenguajes tenemos que liberar la memoria
+    }
+
+    public bool EstaVacia()
+    {
+        if (ancla.Siguiente == null)
+        {
+            return true;
+        }
+        else
+        {
+            return false;
+        }
+    }
+
+    // Regresa el primer dato encontrado si tenemos 2, 5, 6, 7, 5 y buscamos el 5 nos regresaría el primer 5
+    public CNodo Buscar(int pDato)
+    {
+        // Revisamos si está vacía
+        if (EstaVacia() == true)
+            return null;
+        
+        trabajo2 = ancla;
+        
+        // Recorreremos la lista para ver si encontramos un nodo
+        while (trabajo2.Siguiente != null)
+        {
+            trabajo2 = trabajo2.Siguiente;
+            
+            // Al encontrar el dato lo regresamos
+            if(trabajo2.Dato == pDato)
+                return trabajo2;
+        }
+        
+        return null; // No se encontró el nodo regresamos null
     }
 }

@@ -15,6 +15,15 @@
             miLista.Adicionar(15);
             
             miLista.Transversa(); // recorriendo la lista
+            /*Console.WriteLine(miLista.EstaVacia());
+            
+            miLista.Vaciar();
+            
+            miLista.Transversa();
+            Console.WriteLine(miLista.EstaVacia());*/
+
+            CNodo encontrado = miLista.Buscar(9);
+            Console.WriteLine("Nodo encontrado: {0}", encontrado);
         }
     }
 }
