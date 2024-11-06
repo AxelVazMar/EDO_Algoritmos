@@ -12,3 +12,4 @@
 /Users/axelvm/Documents/EDO_Algoritmos/02_Recursion/obj/Debug/net8.0/02_Recursion.pdb
 /Users/axelvm/Documents/EDO_Algoritmos/02_Recursion/obj/Debug/net8.0/02_Recursion.genruntimeconfig.cache
 /Users/axelvm/Documents/EDO_Algoritmos/02_Recursion/obj/Debug/net8.0/ref/02_Recursion.dll
+/Users/axelvm/Documents/EDO_Algoritmos/02_Recursion/obj/Debug/net8.0/02_Recursion.sourcelink.json
