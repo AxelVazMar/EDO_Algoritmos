@@ -23,7 +23,13 @@
             Console.WriteLine(miLista.EstaVacia());*/
 
             CNodo encontrado = miLista.Buscar(9);
+            
             Console.WriteLine("Nodo encontrado: {0}", encontrado);
+            
+            // Buscando el indice del número 7
+            Console.WriteLine("Indice encontrado: {0}", miLista.BuscarIndice(15));
+
+            Console.WriteLine("Nodo anterior encontrado: {0}", miLista.BuscarAnterior(15));
         }
     }
 }
