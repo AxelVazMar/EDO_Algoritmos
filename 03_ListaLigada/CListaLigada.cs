@@ -169,7 +169,7 @@ public class CListaLigada
         temp.Dato = pValor;
         
         // Conectamos el nodo temporal antes del ancla ejemplo lista= [3] => [5] => [7] => [9] => [11] => [15] insertaremos el 7 al inicio
-        // [7] => [3] => [5] => [7] => [9] => [11] => [15]
+        // [ancla] => [7] => [3] => [5] => [7] => [9] => [11] => [15]
         temp.Siguiente = ancla.Siguiente;
         
         // Conectamos temporal con la lista con la lista 
@@ -216,4 +216,17 @@ public class CListaLigada
             }
         }
     }
+
+    public int Cantidad()
+    {
+        trabajo = ancla;
+        int n = 0;
+        while (trabajo.Siguiente != null)
+        {
+            trabajo = trabajo.Siguiente;
+            n++;
+        }
+        return n;
+    }
+    
 }
