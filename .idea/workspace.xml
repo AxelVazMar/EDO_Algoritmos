@@ -14,25 +14,36 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fc1795e4-c6fb-4824-9459-e06a540f31aa" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/01_Recursion/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/01_Recursion/Program.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/01_Recursion/obj/01_Recursion.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/01_Recursion/obj/01_Recursion.csproj.nuget.g.props" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/01_Recursion/obj/01_Recursion.csproj.nuget.g.targets" beforeDir="false" afterPath="$PROJECT_DIR$/01_Recursion/obj/01_Recursion.csproj.nuget.g.targets" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/01_Recursion/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/01_Recursion/obj/project.packagespec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/02_Recursion/obj/02_Recursion.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/02_Recursion/obj/02_Recursion.csproj.nuget.g.props" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/02_Recursion/obj/02_Recursion.csproj.nuget.g.targets" beforeDir="false" afterPath="$PROJECT_DIR$/02_Recursion/obj/02_Recursion.csproj.nuget.g.targets" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/02_Recursion/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/02_Recursion/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01_Recursion/obj/Debug/net8.0/01_Recursion.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/01_Recursion/obj/Debug/net8.0/01_Recursion.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01_Recursion/obj/Debug/net8.0/01_Recursion.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/01_Recursion/obj/Debug/net8.0/01_Recursion.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01_Recursion/obj/rider.project.model.nuget.info" beforeDir="false" afterPath="$PROJECT_DIR$/01_Recursion/obj/rider.project.model.nuget.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01_Recursion/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/01_Recursion/obj/rider.project.restore.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/02_Recursion/obj/Debug/net8.0/02_Recursion.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/02_Recursion/obj/Debug/net8.0/02_Recursion.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/02_Recursion/obj/Debug/net8.0/02_Recursion.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/02_Recursion/obj/Debug/net8.0/02_Recursion.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/02_Recursion/obj/rider.project.model.nuget.info" beforeDir="false" afterPath="$PROJECT_DIR$/02_Recursion/obj/rider.project.model.nuget.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/02_Recursion/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/02_Recursion/obj/rider.project.restore.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03_ListaLigada/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/03_ListaLigada/Program.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/03_ListaLigada/bin/Debug/net8.0/03_ListaLigada.dll" beforeDir="false" afterPath="$PROJECT_DIR$/03_ListaLigada/bin/Debug/net8.0/03_ListaLigada.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/03_ListaLigada/bin/Debug/net8.0/03_ListaLigada.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/03_ListaLigada/bin/Debug/net8.0/03_ListaLigada.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03_ListaLigada/obj/03_ListaLigada.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/03_ListaLigada/obj/03_ListaLigada.csproj.nuget.dgspec.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/03_ListaLigada/obj/03_ListaLigada.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/03_ListaLigada/obj/03_ListaLigada.csproj.nuget.g.props" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03_ListaLigada/obj/03_ListaLigada.csproj.nuget.g.targets" beforeDir="false" afterPath="$PROJECT_DIR$/03_ListaLigada/obj/03_ListaLigada.csproj.nuget.g.targets" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/03_ListaLigada/obj/Debug/net8.0/03_ListaLigada.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/03_ListaLigada/obj/Debug/net8.0/03_ListaLigada.AssemblyInfo.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/03_ListaLigada/obj/Debug/net8.0/03_ListaLigada.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/03_ListaLigada/obj/Debug/net8.0/03_ListaLigada.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03_ListaLigada/obj/Debug/net8.0/03_ListaLigada.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/03_ListaLigada/obj/Debug/net8.0/03_ListaLigada.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03_ListaLigada/obj/Debug/net8.0/03_ListaLigada.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/03_ListaLigada/obj/Debug/net8.0/03_ListaLigada.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03_ListaLigada/obj/Debug/net8.0/03_ListaLigada.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/03_ListaLigada/obj/Debug/net8.0/03_ListaLigada.csproj.CoreCompileInputs.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/03_ListaLigada/obj/Debug/net8.0/03_ListaLigada.dll" beforeDir="false" afterPath="$PROJECT_DIR$/03_ListaLigada/obj/Debug/net8.0/03_ListaLigada.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03_ListaLigada/obj/Debug/net8.0/03_ListaLigada.genruntimeconfig.cache" beforeDir="false" afterPath="$PROJECT_DIR$/03_ListaLigada/obj/Debug/net8.0/03_ListaLigada.genruntimeconfig.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/03_ListaLigada/obj/Debug/net8.0/03_ListaLigada.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/03_ListaLigada/obj/Debug/net8.0/03_ListaLigada.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/03_ListaLigada/obj/Debug/net8.0/03_ListaLigada.sourcelink.json" beforeDir="false" afterPath="$PROJECT_DIR$/03_ListaLigada/obj/Debug/net8.0/03_ListaLigada.sourcelink.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/03_ListaLigada/obj/Debug/net8.0/ref/03_ListaLigada.dll" beforeDir="false" afterPath="$PROJECT_DIR$/03_ListaLigada/obj/Debug/net8.0/ref/03_ListaLigada.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/03_ListaLigada/obj/Debug/net8.0/refint/03_ListaLigada.dll" beforeDir="false" afterPath="$PROJECT_DIR$/03_ListaLigada/obj/Debug/net8.0/refint/03_ListaLigada.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03_ListaLigada/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/03_ListaLigada/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03_ListaLigada/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/03_ListaLigada/obj/project.nuget.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/03_ListaLigada/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/03_ListaLigada/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03_ListaLigada/obj/rider.project.model.nuget.info" beforeDir="false" afterPath="$PROJECT_DIR$/03_ListaLigada/obj/rider.project.model.nuget.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03_ListaLigada/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/03_ListaLigada/obj/rider.project.restore.info" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,6 +62,7 @@
     <setting file="file://$PROJECT_DIR$/03_ListaLigada/CListaLigada.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/03_ListaLigada/CNodo.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/03_ListaLigada/Program.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/05_InsertionSort/05_InsertionSort/Program.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/ILViewer/696057fb9ac24a8ab5d59018e74268c11200/62/e5df83be/02000002pdb1.il" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="ProjectColorInfo">{
@@ -69,6 +81,7 @@
     &quot;.NET Project.03_ListaLigada.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/axelvm/Documents/EDO_Algoritmos&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -164,6 +177,11 @@
       <workItem from="1730812937016" duration="468000" />
       <workItem from="1730813409114" duration="4095000" />
       <workItem from="1730817524186" duration="801000" />
+      <workItem from="1731513250740" duration="105000" />
+      <workItem from="1731513364456" duration="26000" />
+      <workItem from="1731513520593" duration="8000" />
+      <workItem from="1731513540529" duration="17000" />
+      <workItem from="1731513588581" duration="2000" />
     </task>
     <servers />
   </component>
