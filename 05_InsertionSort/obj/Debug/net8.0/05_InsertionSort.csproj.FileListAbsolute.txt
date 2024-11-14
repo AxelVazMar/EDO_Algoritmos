@@ -1,0 +1,15 @@
+/Users/axelvm/Documents/EDO_Algoritmos/05_InsertionSort/bin/Debug/net8.0/05_InsertionSort
+/Users/axelvm/Documents/EDO_Algoritmos/05_InsertionSort/bin/Debug/net8.0/05_InsertionSort.deps.json
+/Users/axelvm/Documents/EDO_Algoritmos/05_InsertionSort/bin/Debug/net8.0/05_InsertionSort.runtimeconfig.json
+/Users/axelvm/Documents/EDO_Algoritmos/05_InsertionSort/bin/Debug/net8.0/05_InsertionSort.dll
+/Users/axelvm/Documents/EDO_Algoritmos/05_InsertionSort/bin/Debug/net8.0/05_InsertionSort.pdb
+/Users/axelvm/Documents/EDO_Algoritmos/05_InsertionSort/obj/Debug/net8.0/05_InsertionSort.GeneratedMSBuildEditorConfig.editorconfig
+/Users/axelvm/Documents/EDO_Algoritmos/05_InsertionSort/obj/Debug/net8.0/05_InsertionSort.AssemblyInfoInputs.cache
+/Users/axelvm/Documents/EDO_Algoritmos/05_InsertionSort/obj/Debug/net8.0/05_InsertionSort.AssemblyInfo.cs
+/Users/axelvm/Documents/EDO_Algoritmos/05_InsertionSort/obj/Debug/net8.0/05_InsertionSort.csproj.CoreCompileInputs.cache
+/Users/axelvm/Documents/EDO_Algoritmos/05_InsertionSort/obj/Debug/net8.0/05_InsertionSort.sourcelink.json
+/Users/axelvm/Documents/EDO_Algoritmos/05_InsertionSort/obj/Debug/net8.0/05_InsertionSort.dll
+/Users/axelvm/Documents/EDO_Algoritmos/05_InsertionSort/obj/Debug/net8.0/refint/05_InsertionSort.dll
+/Users/axelvm/Documents/EDO_Algoritmos/05_InsertionSort/obj/Debug/net8.0/05_InsertionSort.pdb
+/Users/axelvm/Documents/EDO_Algoritmos/05_InsertionSort/obj/Debug/net8.0/05_InsertionSort.genruntimeconfig.cache
+/Users/axelvm/Documents/EDO_Algoritmos/05_InsertionSort/obj/Debug/net8.0/ref/05_InsertionSort.dll
